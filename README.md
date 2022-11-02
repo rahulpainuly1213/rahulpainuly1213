@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **angular.js**
 
-- 🤝 I’m looking for help with **prachi19aggarwal**
+- 🤝 Currently working with **prachi19aggarwal ❤️**
 
 - 📝 I regularly write articles on [https://twitter.com/RaHuLPainuLy137](https://twitter.com/RaHuLPainuLy137)
 
