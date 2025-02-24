@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Painuly!!</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulpainuly1213&label=Profile%20views&color=776ad7&style=flat" alt="rahulpainuly1213" /> </p>
 
