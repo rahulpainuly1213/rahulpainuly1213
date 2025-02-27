@@ -13,7 +13,7 @@
 
 - 💬 Ask me about ****
 
-- 📫 How to reach me: **rahulpainuly1213@gmail.com**
+- 📫 How to reach me: **rahul.13painuly@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
